@@ -1,0 +1,36 @@
+{
+    "name": "fantom-discordjs-pack",
+    "displayName": "fantom Discordjs Pack",
+    "publisher": "fantomitechno",
+    "author": {
+        "name": "fantomitechno - Simon"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/fantomitechno/fantom-discordjs-pack"
+	},
+    "icon": "images/icon.png",
+    "description": "A pack for me to quicly code with discord.js and TypeScript",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "keywords": [
+        "discord",
+        "typescript"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "icrawl.discord-vscode",
+        "eg2.vscode-npm-script",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "chakrounanas.turbo-console-log",
+        "rbbit.typescript-hero",
+        "pmneo.tsimporter",
+        "chrisbibby.hide-node-modules",
+        "mike-co.import-sorter"
+    ]
+}
